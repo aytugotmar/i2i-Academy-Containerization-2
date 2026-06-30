@@ -15,3 +15,4 @@ The goal of this assignment is to understand the mechanics of containerization b
 3. Run the following command:
    ```bash
    docker compose up -d
+4. Access the webpage via http://localhost:8080

@@ -1,4 +1,4 @@
-# i2i Academy - Containerization - Assignment 2
+# i2i Academy - Containerization
 
 This repository contains the configuration files for the Containerization homework assignment under the i2i Academy Training Program.
 
